@@ -7,4 +7,5 @@ QueryCraft – A curated collection of LeetCode SQL problems solved with clean, 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/bugslayerparvez/leetcode-sql-solutions/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/bugslayerparvez/leetcode-sql-solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
