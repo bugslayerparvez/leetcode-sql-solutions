@@ -16,4 +16,5 @@ QueryCraft – A curated collection of LeetCode SQL problems solved with clean, 
 | [0197-rising-temperature](https://github.com/bugslayerparvez/leetcode-sql-solutions/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/bugslayerparvez/leetcode-sql-solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/bugslayerparvez/leetcode-sql-solutions/tree/master/0596-classes-with-at-least-5-students) |
+| [0620-not-boring-movies](https://github.com/bugslayerparvez/leetcode-sql-solutions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
