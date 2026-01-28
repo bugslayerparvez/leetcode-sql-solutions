@@ -14,4 +14,5 @@ QueryCraft – A curated collection of LeetCode SQL problems solved with clean, 
 | [0183-customers-who-never-order](https://github.com/bugslayerparvez/leetcode-sql-solutions/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/bugslayerparvez/leetcode-sql-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/bugslayerparvez/leetcode-sql-solutions/tree/master/0197-rising-temperature) |
+| [0595-big-countries](https://github.com/bugslayerparvez/leetcode-sql-solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
